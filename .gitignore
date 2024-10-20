@@ -1,0 +1,24 @@
+# Ignore virtual environment directory
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Python environment files
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS related
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Flask specific
+instance/
